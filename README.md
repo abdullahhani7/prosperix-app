@@ -7,7 +7,7 @@ Modern, responsive financial consulting website with multi-page routing, crafted
 ## 🔗 Live Demo
 
 Check out the live site here:  
-👉 [https://prosperix-app.vercel.app](https://prosperix-app-psi.vercel.app/)
+👉 [https://prosperix-app-psi.vercel.app](https://prosperix-app-psi.vercel.app/)
 
 ---
 
